@@ -1,0 +1,141 @@
+body{
+    background: rgb(92,219,148);
+    background-attachment: fixed;
+}
+
+.Bbox{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 500px;
+    width: 400px;
+    background-color: rgb(4,55,107);
+    border-radius: 19px;
+    transition: 0.7s;
+}
+
+h2{
+    position: absolute;
+    top: 1%;
+    left: 21%;
+    font-family:sans-serif ;
+    color: rgb(236,244,224);
+}
+
+button{
+    margin: 0;
+    position: absolute;
+    height: 35px;
+    width: 80px;
+    top: 90%;
+    left: 40%;
+    border-radius: 19px;
+    background-color:rgb(236,244,224);
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.Ibox1{
+    margin: 0;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 65px;
+    width: 375px;
+    background-color: rgb(56,149,131);
+    border-radius: 30px; 
+    
+}
+
+.Ibox2{
+    margin: 0;
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 65px;
+    width: 375px;
+    background-color: rgb(56,149,131);
+    border-radius: 30px 
+    
+}
+
+.Ibox3{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 65px;
+    width: 375px;
+    background-color: rgb(56,149,131);
+    border-radius: 30px 
+    
+}
+
+.Ibox4{
+    margin: 0;
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 65px;
+    width: 375px;
+    background-color: rgb(56,149,131);
+    border-radius: 30px  
+    
+}
+
+.Ibox5{
+    margin: 0;
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 65px;
+    width: 375px;
+    background-color: rgb(56,149,131);
+    border-radius: 30px  
+    
+}
+
+img{
+    margin: 0;
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    top: 12.5%;
+    left: 2%;
+    border-radius: 30px;
+}
+
+.Name{
+    position: absolute;
+    bottom: 20px;
+    left: 18%;
+    font-family:sans-serif ;
+    color: rgb(236,244,224);
+    font-weight: bold;
+}
+
+.Date{
+    position: absolute;
+    font-size: 10px;
+    top:35%;
+    left: 18%;
+    font-family:sans-serif ;
+    color: rgb(236,244,224);
+    
+}
+
+.Age{
+    position: absolute;
+    font-size: 10px;
+    top:28%;
+    left: 83%;
+    font-family:sans-serif ;
+    color: rgb(236,244,224);
+}
